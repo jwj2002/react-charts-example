@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# yarn
+yarn-error.log
+
 # testing
 /coverage
 
@@ -21,3 +24,22 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+#pycharm
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/react-chartsjs-tutorial.iml
+.idea/workspace.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/vcs.xml
+
+
